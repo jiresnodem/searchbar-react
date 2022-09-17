@@ -1,0 +1,15 @@
+.search{
+    padding: 16px;
+}
+
+.search-resultats{
+    width: 400px;
+    margin: auto;
+
+}
+
+.search-resultat{
+    border: 1px solid ;
+    margin:  .3rem auto;
+    background-color: #eee;
+}
